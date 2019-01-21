@@ -4,6 +4,10 @@
 [**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/) (https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) that allows the user to explore the environmental variation associated to any gene or variant of interest in *Arabidopis thaliana*.
 
 Enter any gene Id on the search box and retrieve any significant association with any of the more that 200 environmental parameters that we provide in our database. The user may use their desired significance threshold when considering any of these association.
+
+This tool provides information on the q-values for all associated variants for the user to impose a particular FDR if desired. We recommend the exploration of the FDR parameters for these ExG association using our FDRCLIM tool.
+
+We recommend the user of CLIMGeno to become familiar with the limitations inherent to genome-wide association studies, for which a description is available in the left panel.
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
 The data from the GxE associations provided by this tool as is available in the data/ folder. 
 
