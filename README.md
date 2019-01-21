@@ -8,6 +8,9 @@ Enter any gene Id on the search box and retrieve any significant association wit
 This tool provides information on the q-values for all associated variants for the user to impose a particular FDR if desired. We recommend the exploration of the FDR parameters for these ExG association using our [FDRCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/FDRCLIM/ "FDRCLIM") tool.
 
 We recommend the user of GenoCLIM to become familiar with the limitations inherent to genome-wide association studies, for which a description is available in the left panel.
+
+Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about other interesting research topics.
+
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
 The data for the GxE associations provided by this tool as is available in the [data/ folder](https://github.com/CLIMtools/GenoCLIM/tree/master/data). 
 
