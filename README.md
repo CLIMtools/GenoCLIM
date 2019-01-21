@@ -9,7 +9,7 @@ This tool provides information on the q-values for all associated variants for t
 
 We recommend the user of GenoCLIM to become familiar with the limitations inherent to genome-wide association studies, for which a description is available in the left panel.
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
-The data for the GxE associations provided by this tool as is available in the [data/ folder](https://github.com/CLIMtools/AraCLIM. 
+The data for the GxE associations provided by this tool as is available in the [data/ folder](https://github.com/CLIMtools/GenoCLIM). 
 
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
